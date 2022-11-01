@@ -1,0 +1,39 @@
+@media screen and (max-width:540px){
+    .contact{
+        text-align: center !important;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    .nav{
+        justify-content: center !important;
+    }
+
+    .nav ul li a{
+        margin-bottom: 20px;
+    }
+
+    ul{
+        width: 100%;
+        text-align: center !important;
+    }
+    
+
+    .banner-text h1{
+        font-size: 21px !important;
+    }
+
+    .banner-text .search-button input{
+        width: 100%;
+        max-width: 300px !important;
+    }
+
+    .banner-text .search-button button{
+        width: 100%;
+        max-width: 140px !important;
+    }
+}
